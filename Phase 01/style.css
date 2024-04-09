@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Contrail+One&family=Ewert&family=Faster+One&family=Fredericka+the+Great&family=Inspiration&family=Nabla&family=Petit+Formal+Script&family=Sancreek&family=Smokum&family=Stint+Ultra+Condensed&display=swap');
+
+* { 
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Fredericka the Great', sans-serif;
+}
